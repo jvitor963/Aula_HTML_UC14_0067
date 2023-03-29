@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color:blue;
+    text-align:center;
+}
+p {
+    font-family:"courier";
+    color:red;
+    font-size: 22px;
+}
